@@ -1,0 +1,21 @@
+:root {
+  --bg-color: #000;
+  --text-color: #fff;
+  --accent-color: #00ff00; /* Neon Green for accent */
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'Courier New', Courier, monospace;
+  overflow: hidden;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
