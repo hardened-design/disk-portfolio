@@ -6,3 +6,4 @@
 - [デザイン・コーディング規約](guidelines.md)
 - [予定機能・ギミック](features.md)
 - [実装計画: Three.js ASCII Art Hero Section](implementation_plan.md)
+- [OpenCode サブエージェント設定](opencode.md)
